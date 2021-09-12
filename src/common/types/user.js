@@ -1,0 +1,8 @@
+export const UserActionTypes = {
+    GET_USER_LIST: 'GET_USER_LIST',
+    GET_USER: 'GET_USER',
+    SET_USER_LOGIN: 'SET_USER_LOGIN',
+    CREATE_USER: 'CREATE_USER',
+    UPDATE_USER: 'UPDATE_USER',
+    DELETE_USER: 'DELETE_USER'
+}
